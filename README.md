@@ -7,7 +7,7 @@ Web Developer
 Fourth-year Computer Engineering student waiting for an internship to apply web development and UX/UI design skills.
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [epsk.coin@gmail.com](mailto:epsk.coin@gmail.com)
+* ✉️  You can contact me at [phatsakorn.sing@hotmail.com](mailto:phatsakorn.sing@hotmail.com)
 
 ### Skills
 
